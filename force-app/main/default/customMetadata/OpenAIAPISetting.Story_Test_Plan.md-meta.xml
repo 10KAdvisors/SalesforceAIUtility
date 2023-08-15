@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Story Test Plan</label>
+    <protected>false</protected>
+    <values>
+        <field>API_Key__c</field>
+        <value xsi:type="xsd:string">Your_API_Key_Goes_Here</value>
+    </values>
+    <values>
+        <field>Default_System_Role__c</field>
+        <value xsi:type="xsd:string">You are a helpful Salesforce quality assurance manager</value>
+    </values>
+    <values>
+        <field>Default_User_Content__c</field>
+        <value xsi:type="xsd:string">Create a test plan for the following user story formatted as a bulleted list of test scenarios with sub-bullets of expected inputs and outputs:</value>
+    </values>
+    <values>
+        <field>Endpoint__c</field>
+        <value xsi:type="xsd:string">https://api.openai.com/v1/chat/completions</value>
+    </values>
+    <values>
+        <field>Model__c</field>
+        <value xsi:type="xsd:string">gpt-3.5-turbo-16k</value>
+    </values>
+</CustomMetadata>

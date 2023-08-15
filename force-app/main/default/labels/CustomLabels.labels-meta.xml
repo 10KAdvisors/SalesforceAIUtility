@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>AI_General_API_Error</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>AI General API Error</shortDescription>
+        <value>We ran into an error with the AI service:</value>
+    </labels>
+    <labels>
+        <fullName>AI_Story_Release_Notes_General_Error</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>AI Story Release Notes General Error</shortDescription>
+        <value>Something went wrong while saving the release notes to the story:</value>
+    </labels>
+    <labels>
+        <fullName>AI_Story_Test_Plan_General_Error</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>AI Story Test Plan General Error</shortDescription>
+        <value>Something went wrong while saving the test plan to the story:</value>
+    </labels>
+</CustomLabels>
