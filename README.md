@@ -1,4 +1,4 @@
-<a href="https://githubsfdeploy.herokuapp.com?owner=10KAdvisors&repo=OpenAISample&ref=main">
+<a href="https://githubsfdeploy.herokuapp.com?owner=10KAdvisors&repo=SalesforceOpenAIUtility&ref=main">
   <img alt="Deploy to Salesforce"
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
 </a>
