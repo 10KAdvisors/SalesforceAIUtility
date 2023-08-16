@@ -10,8 +10,9 @@
 We've created a lightweight utility that makes it a breeze to get started with OpenAI and ChatGPT from within Salesforce. A few quick steps to get going:
 
 1. First, be sure to register your own account with OpenAI, and get an API key (https://help.openai.com/en/articles/4936850-where-do-i-find-my-secret-api-key)
-2. Install the utility with the Deploy to Salesforce
+2. Install the utility with the Deploy to Salesforce button above
 3. Update your API Key within the 'OpenAI AI Setting' custom metadata type records
+4. Assign the included 'OpenAI User' permission set to any users you want to have access to these functions
 
 After that, you'll be able to use the 'Generate Release Notes' and 'Generate Test Plan' actions on the included Story custom object. We included these as examples to show how the function works end to end.
 
