@@ -7,7 +7,7 @@
 
 ## Getting Started
 
-We've created a lightweight utility that makes it a breeze to get started with OpenAI and ChatGPT from within Salesforce. A few quick steps to get going:
+We've created a lightweight utility that makes it a breeze to get started with OpenAI from within Salesforce. A few quick steps to get going:
 
 1. First, be sure to register your own account with OpenAI, and get an API key (https://help.openai.com/en/articles/4936850-where-do-i-find-my-secret-api-key)
 2. Install the utility with the Deploy to Salesforce button above
